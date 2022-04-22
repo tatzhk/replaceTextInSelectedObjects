@@ -1,4 +1,5 @@
-# replaceTextInSelectedObjects
+# 選択テキスト置換.js
+
 イラストレーター用スクリプト</br>
 Adobe Illustrator Script for replacing texts in selected objects
 
