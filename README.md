@@ -1,9 +1,14 @@
 # replaceTextInSelectedObjects
+<<<<<<< HEAD
 イラストレーター用スクリプト
 
 Adobe Illustrator Script for replacing texts in selected objects
 
 
+=======
+Adobe Illustrator Script for replacing texts in selected objects
+
+>>>>>>> 9730cca38e35488fe536b444ec30e7b7d9d376a0
 ### 何ができる
 選択したテキストオブジェクトのなかから文字列を検索し、任意の内容に一気に置換します
 グループ化されていても下の階層まで全て置換対象になります。
